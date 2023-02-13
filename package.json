@@ -1,0 +1,20 @@
+{
+  "name": "ddragon-cdn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1313.0",
+    "axios": "^1.3.2",
+    "bluebird": "^3.7.2",
+    "dotenv": "^16.0.3",
+    "mkdirp": "^2.1.3",
+    "recursive-readdir": "^2.2.3"
+  }
+}
